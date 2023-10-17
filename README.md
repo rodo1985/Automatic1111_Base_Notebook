@@ -1,0 +1,1 @@
+# Automatic1111_Base_Notebook
