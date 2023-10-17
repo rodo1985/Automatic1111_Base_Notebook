@@ -1,1 +1,3 @@
-# Automatic1111_Base_Notebook
+# Automatic1111_Base_Notebook# Automatic1111 Project README
+
+This repository houses an Automatic1111 base notebook. The notebook guides users through setting up the environment which includes importing necessary libraries, cloning the repository, and downloading essential models for Stable-diffusion, ControlNet, and Lora. Additionally, it provides scripts to organize the downloaded models and launch a provided application using a Python script. This setup is essential for running and exploring the capabilities of the Automatic1111 project.
